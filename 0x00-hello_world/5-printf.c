@@ -2,7 +2,6 @@
 /**
  * main - entry point
  *
- * author: AbuBakr
  * return: Always 0 (Success)
  */
 int main(void)
